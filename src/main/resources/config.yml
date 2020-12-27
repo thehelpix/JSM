@@ -1,0 +1,18 @@
+## Настройки
+settings:
+  join:
+    ## Уведомление всем игрокам
+    broadcast: true
+    ## Уведомления всем админам
+    admin_broadcast: true
+  leave:
+    ## Уведомления всем игрокам
+    broadcast: true
+    ## Уведомления всем админам
+    admin_broadcast: false
+
+
+## Права на которые плагин будет понимать то что игрок админ
+perms:
+  - 'litebans.mute'
+  - 'litebans.ban'

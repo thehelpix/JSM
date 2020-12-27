@@ -1,0 +1,8 @@
+name: JSM
+version: 1.0
+main: ru.hdev.hstaffjoin.Main
+api-version: 1.13
+authors: [TheHelpix]
+
+commands:
+  staff:
