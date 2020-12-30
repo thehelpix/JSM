@@ -12,7 +12,7 @@
 
 ## Links
 <a href="https://vk.com/hdevhome"><b>hDev</b></a><br>
-<a href="https://www.spigotmc.org/resources/jsm.87127/"><b>SpigotMC</b></a>
-
+<a href="https://www.spigotmc.org/resources/jsm.87127/"><b>SpigotMC.org</b></a>
+<a href="https://spigotmc.ru/resources/jsm.486/"><b>SpigotMC.ru</b></a>
 ## Лицензия
 [MIT](https://choosealicense.com/licenses/mit/)
