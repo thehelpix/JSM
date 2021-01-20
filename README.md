@@ -4,7 +4,7 @@
 
 
 # JSM
-<b>Join Server Manager</b>
+<b>Join Staff Manager</b>
 <b>Плагин который будет оповещать о входе админов.</b>
 
 ## Авторы
